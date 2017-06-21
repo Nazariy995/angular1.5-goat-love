@@ -1,4 +1,4 @@
-This is a project started from the [NG6-Starter repository](https://github.com/bivainis/NG6-starter-sass)
+This is a project started from the [NG6-Starter repository](https://github.com/bivainis/NG6-starter-sass).
 It is also a follow up of the following project from this tutorial: [Angular 1.5 Components](http://blog.grossman.io/angular-1-component-based-architecture-2/)
 
 # Getting Started
